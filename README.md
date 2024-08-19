@@ -1,2 +1,1 @@
-# The Tavern Project
-CSCI 235
+# The Tavern Project/CSCI-235
